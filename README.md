@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prawitamp
 - 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Javascript, Laravel
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Fullstack Developer
 - 📫 How to reach me prawitamepilianti@gmail.com 
 - 😄 Pronouns: Praw
